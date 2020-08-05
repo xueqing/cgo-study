@@ -1,0 +1,1 @@
+int addByGo(int a, int b);
