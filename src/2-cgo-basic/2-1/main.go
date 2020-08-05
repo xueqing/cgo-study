@@ -12,7 +12,7 @@ const char* cs="hello";
 */
 import "C"
 
-import _ "github.com/xueqing/cgo-study/2-cgo-basic/2-1/cgo_helper"
+import _ "github.com/xueqing/cgo-study/src/2-cgo-basic/2-1/cgo_helper"
 
 func main() {
 	v := 42
